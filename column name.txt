@@ -1,0 +1,13 @@
+
+After completing manage in CRUD.  
+
+Teacher: 
+	* name
+	* email
+	* phone
+	* code
+	* image
+	* address
+	* description
+	* status
+	 
